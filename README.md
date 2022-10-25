@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working at Microsoft on the F# Tools team
+- 💬 Ask me about pretty much anything concerning F# - ideas, tooling improvements, complains. 
+- 📫 How to reach me: Twitter is preferred.
+
+<img src="https://github-readme-stats.vercel.app/api?username=T-Gro&show_icons=true&theme=merko&include_all_commits=true" />
+
 <!--
 **T-Gro/T-Gro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
